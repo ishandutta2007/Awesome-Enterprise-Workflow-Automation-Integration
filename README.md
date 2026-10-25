@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Awesome-Enterprise-Workflow-Automation-Integration
-
-=======
 <p align="center">
   <img src="assets/banner.svg" alt="Awesome Enterprise Workflow Automation and Integration Banner" width="100%" />
 </p>
@@ -245,9 +241,3 @@ Thank you for exploring this curated repository! If you find this guide valuable
 - This repository is a **community-curated guide** intended for architectural evaluation and technical research. Product names, logos, and trademarks belong to their respective owners.
 - **Licensing Vigilance**: Always review the specific licensing terms of open-source projects before production deployment. While projects like **Activepieces** and **Temporal** offer fully permissive MIT licenses, **n8n** utilizes a Sustainable Use License that restricts managed commercial reselling, and **Camunda 8** requires commercial licenses for production Zeebe clusters.
 - **Total Cost of Ownership (TCO)**: While self-hosted open-source software eliminates per-task vendor subscription surcharges, organizations must account for infrastructure operational overhead, including container management (Docker/Kubernetes), high-availability database administration (PostgreSQL, Redis, Kafka), security vulnerability patching, and SLA management.
->>>>>>> e552e28ab2e0afa0b5a36eb59382973967b9e05a
-Copy-Item README.md README.md.bak -Force
-# Manual step: replace SaaS and Open-Source sections with content above
-git add README.md
-git commit -m "docs: add workflow automation pricing (n8n, Zapier, Make, Workato, Power Automate, MuleSoft, Boomi) and open-source n8n"
-git push
