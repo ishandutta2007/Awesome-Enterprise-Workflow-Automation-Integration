@@ -106,7 +106,16 @@ The open-source workflow automation ecosystem provides full data sovereignty, ze
 
 ---
 
-### 5. [Kestra](https://github.com/kestra-io/kestra) [![Kestra stars](https://img.shields.io/github/stars/kestra-io/kestra?style=social&color=white)](https://github.com/kestra-io/kestra/stargazers)
+### 5. [Conductor](https://github.com/conductor-oss/conductor) [![Conductor stars](https://img.shields.io/github/stars/conductor-oss/conductor?style=social&color=white)](https://github.com/conductor-oss/conductor/stargazers)
+- 📜 **License**: Apache 2.0 License
+- 💻 **Tech Stack**: Java, Spring Boot, Elasticsearch, Redis, MySQL/PostgreSQL
+- 🌟 **Key Highlights**: Battle-tested distributed orchestration platform originally built at **Netflix** to execute microservice workflows at extreme planetary scale. Supports multi-language polyglot workers (Java, Python, Go, C#), high concurrency, stateful human tasks, and event-driven architectures.
+- ⚠️ **Honest Caveat**: Requires microservice architectural maturity and infrastructure provisioning (Elasticsearch & queue backends) to operate efficiently.
+- 🎯 **Best For**: Large-scale distributed microservices, asynchronous transaction pipelines, and high-volume media processing flows.
+
+---
+
+### 6. [Kestra](https://github.com/kestra-io/kestra) [![Kestra stars](https://img.shields.io/github/stars/kestra-io/kestra?style=social&color=white)](https://github.com/kestra-io/kestra/stargazers)
 - 📜 **License**: Apache 2.0 License
 - 💻 **Tech Stack**: Java, Micronaut, Vue.js, Kafka/PostgreSQL
 - 🌟 **Key Highlights**: High-performance, **declarative YAML-driven orchestrator** uniting business workflows, data pipelines, and microservice tasks. Features a built-in real-time code editor, visual DAG topologies, sub-second execution speeds, and 500+ plugins.
@@ -115,7 +124,7 @@ The open-source workflow automation ecosystem provides full data sovereignty, ze
 
 ---
 
-### 6. [Activepieces](https://github.com/activepieces/activepieces) [![Activepieces stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)
+### 7. [Activepieces](https://github.com/activepieces/activepieces) [![Activepieces stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)
 - 📜 **License**: MIT License
 - 💻 **Tech Stack**: TypeScript, Node.js, Angular, PostgreSQL
 - 🌟 **Key Highlights**: Truly open-source, permissively licensed Zapier/Make alternative. Provides **700+ connectors**, intuitive visual canvas, AI agent steps, and 280+ tools exposed as Model Context Protocol (MCP) servers for Cursor and Claude.
@@ -124,7 +133,7 @@ The open-source workflow automation ecosystem provides full data sovereignty, ze
 
 ---
 
-### 7. [Prefect](https://github.com/prefecthq/prefect) [![Prefect stars](https://img.shields.io/github/stars/prefecthq/prefect?style=social&color=white)](https://github.com/prefecthq/prefect/stargazers)
+### 8. [Prefect](https://github.com/prefecthq/prefect) [![Prefect stars](https://img.shields.io/github/stars/prefecthq/prefect?style=social&color=white)](https://github.com/prefecthq/prefect/stargazers)
 - 📜 **License**: Apache 2.0 License
 - 💻 **Tech Stack**: Python, FastAPI, Vue.js, SQLite/PostgreSQL
 - 🌟 **Key Highlights**: Modern, developer-centric workflow orchestration. Turn any arbitrary Python code into an observable, resilient workflow simply by decorating functions with `@flow` and `@task`. Supports dynamic scheduling, retries, and instant distributed execution.
@@ -133,7 +142,7 @@ The open-source workflow automation ecosystem provides full data sovereignty, ze
 
 ---
 
-### 8. [Temporal](https://github.com/temporalio/temporal) [![Temporal stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers)
+### 9. [Temporal](https://github.com/temporalio/temporal) [![Temporal stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers)
 - 📜 **License**: MIT License
 - 💻 **Tech Stack**: Go, Java, TypeScript, Python, Cassandra/PostgreSQL/MySQL
 - 🌟 **Key Highlights**: Open-source durable execution platform. Allows developers to write complex, long-running business logic in native programming languages as though processes never fail. Manages distributed transactions, retries, state recovery, and compensation sagas.
@@ -142,7 +151,7 @@ The open-source workflow automation ecosystem provides full data sovereignty, ze
 
 ---
 
-### 9. [Node-RED](https://github.com/node-red/node-red) [![Node-RED stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers)
+### 10. [Node-RED](https://github.com/node-red/node-red) [![Node-RED stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers)
 - 📜 **License**: Apache 2.0 License (OpenJS Foundation)
 - 💻 **Tech Stack**: Node.js, JavaScript, HTML5 Canvas
 - 🌟 **Key Highlights**: Established visual event-driven flow editor. Excels at connecting hardware devices, IoT sensors, MQTT brokers, REST APIs, and online services with minimal system memory footprint.
@@ -151,7 +160,7 @@ The open-source workflow automation ecosystem provides full data sovereignty, ze
 
 ---
 
-### 10. [Windmill](https://github.com/windmill-labs/windmill) [![Windmill stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=social&color=white)](https://github.com/windmill-labs/windmill/stargazers)
+### 11. [Windmill](https://github.com/windmill-labs/windmill) [![Windmill stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=social&color=white)](https://github.com/windmill-labs/windmill/stargazers)
 - 📜 **License**: AGPLv3 License
 - 💻 **Tech Stack**: Rust, Svelte, PostgreSQL
 - 🌟 **Key Highlights**: High-performance developer platform that turns standalone scripts (TypeScript, Python, Go, Bash, SQL) into auto-generated auto-scaling UIs, background jobs, and multi-step workflows. Boasts millisecond overhead powered by a Rust core.
@@ -160,7 +169,16 @@ The open-source workflow automation ecosystem provides full data sovereignty, ze
 
 ---
 
-### 11. [Dagster](https://github.com/dagster-io/dagster) [![Dagster stars](https://img.shields.io/github/stars/dagster-io/dagster?style=social&color=white)](https://github.com/dagster-io/dagster/stargazers)
+### 12. [Argo Workflows](https://github.com/argoproj/argo-workflows) [![Argo Workflows stars](https://img.shields.io/github/stars/argoproj/argo-workflows?style=social&color=white)](https://github.com/argoproj/argo-workflows/stargazers)
+- 📜 **License**: Apache 2.0 License (CNCF Graduated)
+- 💻 **Tech Stack**: Go, Kubernetes CRDs, Docker
+- 🌟 **Key Highlights**: Container-native workflow engine implemented as a Kubernetes CRD. Each step in a workflow runs directly as an isolated Pod on Kubernetes, offering massive horizontal scaling for compute-heavy ML pipelines, CI/CD automation, and big data batch jobs.
+- ⚠️ **Honest Caveat**: Strictly coupled to Kubernetes; requires dedicated Kubernetes infrastructure and expertise.
+- 🎯 **Best For**: Cloud-native teams running containerized compute workloads, distributed machine learning pipelines, and Kubernetes-native infrastructure workflows.
+
+---
+
+### 13. [Dagster](https://github.com/dagster-io/dagster) [![Dagster stars](https://img.shields.io/github/stars/dagster-io/dagster?style=social&color=white)](https://github.com/dagster-io/dagster/stargazers)
 - 📜 **License**: Apache 2.0 License
 - 💻 **Tech Stack**: Python, React, GraphQL, PostgreSQL
 - 🌟 **Key Highlights**: Pioneered "software-defined assets" for modern data platforms. Models data assets declaratively with end-to-end lineage, built-in unit testability, and deep observability across transformation pipelines.
@@ -169,7 +187,7 @@ The open-source workflow automation ecosystem provides full data sovereignty, ze
 
 ---
 
-### 12. [Automatisch](https://github.com/automatisch/automatisch) [![Automatisch stars](https://img.shields.io/github/stars/automatisch/automatisch?style=social&color=white)](https://github.com/automatisch/automatisch/stargazers)
+### 14. [Automatisch](https://github.com/automatisch/automatisch) [![Automatisch stars](https://img.shields.io/github/stars/automatisch/automatisch?style=social&color=white)](https://github.com/automatisch/automatisch/stargazers)
 - 📜 **License**: AGPLv3 License
 - 💻 **Tech Stack**: Node.js, React, PostgreSQL
 - 🌟 **Key Highlights**: Business-friendly, privacy-first Zapier alternative designed specifically for organizations subject to strict data-handling policies (GDPR, HIPAA). Ensures user credentials and customer payloads never leave internal infrastructure.
@@ -178,7 +196,16 @@ The open-source workflow automation ecosystem provides full data sovereignty, ze
 
 ---
 
-### 13. [Camunda 8](https://github.com/camunda/camunda) [![Camunda stars](https://img.shields.io/github/stars/camunda/camunda?style=social&color=white)](https://github.com/camunda/camunda/stargazers)
+### 15. [Flyte](https://github.com/flyteorg/flyte) [![Flyte stars](https://img.shields.io/github/stars/flyteorg/flyte?style=social&color=white)](https://github.com/flyteorg/flyte/stargazers)
+- 📜 **License**: Apache 2.0 License (LF AI & Data Foundation)
+- 💻 **Tech Stack**: Python, Go, Kubernetes
+- 🌟 **Key Highlights**: Production-grade, highly scalable workflow orchestrator built for data processing and machine learning pipelines. Features strongly-typed task inputs/outputs, deterministic memoization/caching, and multi-tenant execution across Kubernetes clusters.
+- ⚠️ **Honest Caveat**: High operational complexity geared towards ML platforms and data teams; not suited for rapid trigger-action business webhooks.
+- 🎯 **Best For**: MLOps engineers, data scientists, and AI infrastructure teams training models and executing large-scale distributed data DAGs.
+
+---
+
+### 16. [Camunda 8](https://github.com/camunda/camunda) [![Camunda stars](https://img.shields.io/github/stars/camunda/camunda?style=social&color=white)](https://github.com/camunda/camunda/stargazers)
 - 📜 **License**: Source-Available License (Zeebe Engine)
 - 💻 **Tech Stack**: Java, Zeebe, BPMN 2.0, DMN, Elasticsearch
 - 🌟 **Key Highlights**: The global enterprise reference for BPMN 2.0 process modeling. Orchestrates human tasks, decision tables (DMN), and distributed microservices with horizontal scalability via the Zeebe cloud-native engine.
@@ -222,7 +249,7 @@ We welcome contributions from automation architects, developers, and integration
 
 ##  Star History
 
-[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Enterprise-Workflow-Automation-Integration&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Enterprise-Workflow-Automation-Integration&type=date&legedd=top-left)
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Enterprise-Workflow-Automation-Integration&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Enterprise-Workflow-Automation-Integration&type=date&legend=top-left)
 
 ---
 
